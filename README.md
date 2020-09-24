@@ -1,5 +1,8 @@
 <H1>Личная страничка пользователя</H1>
 <p>Здравствуйте, меня зовут Александр Цветков</p>
+<div class="imgs">
+<img class="imgs1" scr="https://avatars0.githubusercontent.com/u/71758190?s=460&u=549a9d09a3ed9416aa60bfc1935493c969437a87&v=4" width="50" height="50" alt=""/>
+</div>
 <p>Я разработчик из Санкт-Петербурга</p>
 <br>
 <p>Специализация основная: <b>Delphi, MS SQL</b></p>
