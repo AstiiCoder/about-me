@@ -6,7 +6,7 @@
 <p>Специализация основная: <b>Delphi, MS SQL</b></p>
 <p>Также, занимаюсь разработкой сайтов на основе разных CMS формата "интернет-магазин"</p>
 <H2>Репозиторий</H2>
-<p><a href="glock17_Scripts">mssql</a></p>
+<p><a href="https://github.com/AstiiCoder/Glock17_Scripts">mssql</a></p>
 <H2>Сайты</H2>
 <p><a href="http:\\www.artofglass.ru">artofglass.ru</a></p>
 <p><a href="https:\\www.bath-vip.ru">bath-vip.ru</a></p>
