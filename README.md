@@ -7,7 +7,7 @@
 <p>Реализовывал небольшие проекты на: <b>Java, JavaScript, C++</b></p>
 <p>Также, занимаюсь разработкой сайтов на основе разных CMS формата "интернет-магазин"</p>
 <H2>Репозитории</H2>
-<p><a href="https://github.com/AstiiCoder/Glock17_Scripts">mssql</a></p>
+<p></p>
 <H2>Примеры сайтов</H2>
 <p><a href="http:\\www.artofglass.ru">artofglass.ru</a></p>
 <p><a href="https:\\www.bath-vip.ru">bath-vip.ru</a></p>
